@@ -18,8 +18,8 @@ Ollama Model Manager is a user-friendly desktop application for managing and int
 
 ## Installation
 
-1. Clone this repository:
-	git clone https://github.com/non-npc/ollama-model-manager.git
+1. Clone this repository
+   
 2. Navigate to the project directory:
 	cd ollama-model-manager
 3. Install the required dependencies
