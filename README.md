@@ -13,7 +13,7 @@ Ollama Model Manager is a user-friendly desktop application for managing and int
 
 ## Prerequisites
 
-- Python 3.7+
+- Python 3.12+
 - Ollama installed on your system
 
 ## Installation
